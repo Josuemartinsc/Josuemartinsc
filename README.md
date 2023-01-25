@@ -5,9 +5,10 @@
 
 -Olá a todos!!!!
 
-- ESTUDANTE da Ciencia da Computação - UFSCar 021
+- Estudante da Ciencia da Computação - UFSCar 021
 
 - Tentando Dominar o C/C++.
 - Aprendendo o Python para Analise de Dados.
 
-- De boa com a vida de computeiro 😎💻
+
+- Aprendendo sobre o mundo da Computação e  de boa com a vida de computeiro 😎💻
