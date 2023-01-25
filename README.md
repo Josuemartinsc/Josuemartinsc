@@ -1,9 +1,5 @@
-### Hi there 👋
 
-
-**Josuemartinsc/Josuemartinsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--Olá a todos!!!!
+- Olá a todos  👋👋!!!!
 
 - Estudante da Ciencia da Computação - UFSCar 021
 
